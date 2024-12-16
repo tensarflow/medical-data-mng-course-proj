@@ -1,8 +1,7 @@
-# TUFE API
+# TUFE-Heart Disease Correlation API
 
 ## Overview
-
-The TUFE API is a FastAPI-based web application that manages consumer price index (TUFE) records, income data, and heart disease mortality statistics. The API allows CRUD operations for these datasets and provides a simple interface to query and manage the data.
+This API is a FastAPI-based web application that manages consumer price index (TUFE) records and heart disease mortality statistics, enabling analysis of potential correlations between economic indicators and public health outcomes. The API provides CRUD operations for both TUFE and mortality datasets, along with endpoints to explore relationships between economic factors and heart disease mortality rates.
 
 ## Features
 
