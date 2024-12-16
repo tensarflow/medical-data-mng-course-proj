@@ -78,7 +78,7 @@ The TUFE API is a FastAPI-based web application that manages consumer price inde
 
 1. Install Dependencies
    ```bash
-   pip install fastapi sqlalchemy pydantic uvicorn
+   pip install -r requirements.txt
    ```
 
 2. Run the API
