@@ -95,5 +95,3 @@ The TUFE API is a FastAPI-based web application that manages consumer price inde
 5. Interactive Documentation
    - Swagger UI: http://127.0.0.1:8000/docs
    - ReDoc: http://127.0.0.1:8000/redoc
-
-## Directory Structure
