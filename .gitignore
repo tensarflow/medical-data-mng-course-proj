@@ -1,0 +1,15 @@
+# Database
+data/*.sqlite
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.env/
+.venv/ 
